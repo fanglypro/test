@@ -1,0 +1,3 @@
+0.0-5.2 seconds: "Two women in a car in the dark."
+5.2-10.8 seconds: "A woman in a car."
+10.8-13.9 seconds: "A car parked in a garage at night."

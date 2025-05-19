@@ -1,0 +1,5 @@
+0.0-6.9 seconds: "The young man is talking to his girlfriend."
+6.9-14.9 seconds: "The young man is looking at his girlfriend."
+14.9-16.4 seconds: "The young man is talking to his girlfriend."
+16.4-18.0 seconds: "The young couple in the young couple."
+18.0-22.6 seconds: "The young man is talking to his girlfriend."

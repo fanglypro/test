@@ -1,0 +1,6 @@
+0.0-8.1 seconds: "The big bang on the big bang."
+8.1-13.8 seconds: "Two men sitting on a couch talking to each other men."
+13.8-20.4 seconds: "Two men sitting on a couch talking."
+20.4-21.9 seconds: "A man in a white shirt and tie sitting on a couch."
+21.9-22.5 seconds: "Two men sitting on a couch talking."
+22.5-28.1 seconds: "The young man is talking to his friend."

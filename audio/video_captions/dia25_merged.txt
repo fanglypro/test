@@ -1,0 +1,4 @@
+0.0-5.2 seconds: "A woman in a gray shirt is talking to a man."
+5.2-10.8 seconds: "A woman is looking in the mirror while another looks on."
+10.8-14.4 seconds: "A woman in a blue shirt and black pants."
+14.4-17.1 seconds: "A woman in a pink robe is looking at her reflection."

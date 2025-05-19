@@ -1,0 +1,2 @@
+0.0-6.9 seconds: "A young boy sitting on a chair in a room."
+6.9-7.6 seconds: "Two and a half men."

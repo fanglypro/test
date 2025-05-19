@@ -1,0 +1,5 @@
+0.0-2.2 seconds: "A woman in a gray shirt and black pants."
+2.2-3.4 seconds: "The young couple in friends."
+3.4-4.8 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+4.8-5.5 seconds: "A man in a white shirt and black shorts."
+5.5-11.2 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."

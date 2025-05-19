@@ -1,0 +1,4 @@
+0.0-2.2 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+2.2-4.3 seconds: "A woman sitting on a couch with a plate of food."
+4.3-6.0 seconds: "Two men sitting on a couch eating food."
+6.0-8.0 seconds: "A woman in a white shirt is talking to a man."

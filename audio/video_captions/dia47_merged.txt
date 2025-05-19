@@ -1,0 +1,3 @@
+0.0-9.9 seconds: "A man and woman standing in a living room."
+9.9-15.3 seconds: "A man and woman standing in a living room."
+15.3-17.0 seconds: "A man in a green coat standing in a room."

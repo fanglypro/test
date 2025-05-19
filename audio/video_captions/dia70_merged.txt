@@ -1,0 +1,5 @@
+0.0-1.3 seconds: "A group of people playing a game of hockey."
+1.3-3.3 seconds: "A crowd of people in a stadium."
+3.3-4.6 seconds: "A hockey game is being played on the ice."
+4.6-5.5 seconds: "A hockey game is being played on the ice."
+5.5-6.6 seconds: "A crowd of people in a stadium."

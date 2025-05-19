@@ -1,0 +1,8 @@
+0.0-1.3 seconds: "A woman in a suit talking to another woman."
+1.3-3.8 seconds: "A woman in a suit talking to another woman."
+3.8-5.4 seconds: "A woman in a suit and tie holding a folder."
+5.4-8.4 seconds: "The young woman is talking to her friend."
+8.4-11.7 seconds: "Two women standing in a room with a book."
+11.7-14.5 seconds: "A woman in a suit talking to another woman."
+14.5-16.8 seconds: "Two women standing in a room with a book."
+16.8-17.7 seconds: "Two women in suits talking to each other women."

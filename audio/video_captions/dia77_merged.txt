@@ -1,0 +1,4 @@
+0.0-6.8 seconds: "A man and woman standing in front of a wall."
+6.8-14.1 seconds: "A man and woman in a room."
+14.1-15.6 seconds: "The young sheldon and his wife are talking."
+15.6-21.3 seconds: "A man and woman standing in front of a wall."

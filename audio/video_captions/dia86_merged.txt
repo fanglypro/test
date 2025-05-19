@@ -1,0 +1,3 @@
+0.0-2.9 seconds: "A woman standing in a kitchen next to a man."
+2.9-4.8 seconds: "A woman talking on a cell phone in a kitchen."
+4.8-5.3 seconds: "A woman in a black dress standing next to a refrigerator."

@@ -1,0 +1,4 @@
+0.0-1.8 seconds: "A man and woman standing in a kitchen."
+1.8-10.1 seconds: "A woman in a black shirt is holding a pole."
+10.1-15.1 seconds: "A man in a striped shirt."
+15.1-25.5 seconds: "A woman holding a red pole in her hand."

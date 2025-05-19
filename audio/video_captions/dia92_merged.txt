@@ -1,0 +1,6 @@
+0.0-3.1 seconds: "Two women and a man in a living room."
+3.1-5.2 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+5.2-7.4 seconds: "A man and woman sitting on a couch."
+7.4-8.8 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+8.8-10.4 seconds: "A man and woman sitting on a couch."
+10.4-16.7 seconds: "A woman in a blue shirt and a man in a plaid shirt."

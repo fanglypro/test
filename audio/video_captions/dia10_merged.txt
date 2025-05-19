@@ -1,0 +1,2 @@
+0.0-6.1 seconds: "The vampires in the car."
+6.1-11.4 seconds: "A man in a car talking to another man."

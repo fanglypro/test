@@ -1,0 +1,7 @@
+0.0-8.4 seconds: "A man in a suit and tie standing next to a woman in a pink dress."
+8.4-11.3 seconds: "A man in a suit and tie talking to a woman."
+11.3-13.5 seconds: "Two women in a bathroom talking to each other women."
+13.5-14.9 seconds: "A woman in a dress and a man in a suit."
+14.9-20.1 seconds: "Two women talking in a room."
+20.1-24.8 seconds: "Two women in pink dresses are standing in a room."
+24.8-25.5 seconds: "A man in a suit and tie standing next to a woman in a dress."

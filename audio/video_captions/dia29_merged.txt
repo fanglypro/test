@@ -1,0 +1,3 @@
+0.0-3.0 seconds: "A woman in a white apron talking to another woman."
+3.0-4.1 seconds: "The young woman is talking to her friend."
+4.1-6.5 seconds: "A woman in an apron talking to another woman."

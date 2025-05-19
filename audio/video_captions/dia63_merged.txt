@@ -1,0 +1,8 @@
+0.0-1.7 seconds: "A man and woman sitting on a couch in a living room."
+1.7-6.2 seconds: "A man and woman sitting on a couch in a living room."
+6.2-11.4 seconds: "A woman in a black dress talking to a man."
+11.4-16.9 seconds: "A man in a suit and tie talking to a woman."
+16.9-19.5 seconds: "A woman in a black dress and a man in a suit."
+19.5-21.5 seconds: "A man in a suit and tie talking to a woman."
+21.5-23.9 seconds: "The young sheldon and his wife, jennifer, are talking in the living room."
+23.9-26.8 seconds: "A man and woman in a living room."

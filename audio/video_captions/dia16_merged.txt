@@ -1,0 +1,6 @@
+0.0-7.2 seconds: "A woman sitting next to a man in a restaurant."
+7.2-9.9 seconds: "The big bang on the big bang."
+9.9-13.5 seconds: "A man in a suit and tie walking through a bar."
+13.5-15.3 seconds: "A man in a suit and tie sitting at a table."
+15.3-17.9 seconds: "A woman sitting in a chair with a cup."
+17.9-22.1 seconds: "A man and woman sitting at a table."

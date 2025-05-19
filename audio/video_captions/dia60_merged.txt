@@ -1,0 +1,6 @@
+0.0-2.5 seconds: "The young couple in the young couple."
+2.5-3.3 seconds: "A man and woman standing next to each other people."
+3.3-6.4 seconds: "A woman standing in a living room with candles."
+6.4-11.3 seconds: "A woman standing in a room with candles."
+11.3-14.1 seconds: "A man and woman standing in a kitchen."
+14.1-18.3 seconds: "A man and woman standing around a table."

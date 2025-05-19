@@ -1,0 +1,5 @@
+0.0-1.6 seconds: "A woman in a kitchen with a dart on the wall."
+1.6-3.1 seconds: "A man in an orange shirt and a woman in a gray sweater."
+3.1-5.1 seconds: "A man hugging a woman in the kitchen."
+5.1-7.6 seconds: "A man and woman hug in a room."
+7.6-9.1 seconds: "A woman standing next to a baby in a crib."

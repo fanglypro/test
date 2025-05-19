@@ -1,0 +1,4 @@
+0.0-1.6 seconds: "A man in a grey sweater standing in front of a refrigerator."
+1.6-5.7 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+5.7-10.3 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+10.3-15.3 seconds: "A man and woman in a kitchen talking."

@@ -1,0 +1,7 @@
+0.0-7.8 seconds: "The young man is sitting on a couch and looking at his tablet."
+7.8-11.5 seconds: "A man and woman sitting on a couch."
+11.5-16.1 seconds: "A man and woman sitting in a living room."
+16.1-17.9 seconds: "A man and woman sitting on a couch."
+17.9-21.1 seconds: "A man and woman sitting in a room."
+21.1-26.5 seconds: "The big bang on the big bang show."
+26.5-29.3 seconds: "A man sitting on a couch with a flower in his hand."

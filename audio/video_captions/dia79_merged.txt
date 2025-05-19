@@ -1,0 +1,5 @@
+0.0-2.7 seconds: "A woman kneeling down on the floor in a kitchen."
+2.7-5.0 seconds: "A woman in a kitchen with a book."
+5.0-6.5 seconds: "A woman standing in front of a counter."
+6.5-10.9 seconds: "A woman standing in front of a counter."
+10.9-13.6 seconds: "A man sitting at a table with a woman standing behind him."

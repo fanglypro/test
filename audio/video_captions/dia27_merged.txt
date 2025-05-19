@@ -1,0 +1,2 @@
+0.0-0.8 seconds: "The wedding party is getting ready for the big day."
+0.8-7.5 seconds: "The young bride is getting ready to get her wedding dress."

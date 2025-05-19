@@ -1,0 +1,5 @@
+0.0-1.7 seconds: "A woman in a pink dress and black jacket talking to a man in a black jacket."
+1.7-5.3 seconds: "The young man is talking to a woman."
+5.3-7.6 seconds: "A woman in a pink dress and a man in a black jacket."
+7.6-11.0 seconds: "A man and woman standing in front of a wall."
+11.0-16.9 seconds: "The young woman is talking to a man in a suit."

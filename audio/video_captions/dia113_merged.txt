@@ -1,0 +1,3 @@
+0.0-0.8 seconds: "The young girl is sitting on a couch in front of a television screen."
+0.8-2.5 seconds: "The young girl in friends."
+2.5-13.0 seconds: "The young girl is talking to her friend."

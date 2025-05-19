@@ -1,0 +1,4 @@
+0.0-1.2 seconds: "A man in a brown shirt and jeans talking to a woman."
+1.2-2.8 seconds: "A woman in a black shirt and a red wall."
+2.8-4.2 seconds: "A man and woman are standing in a room."
+4.2-6.7 seconds: "A man in a room with a plant."

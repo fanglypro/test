@@ -1,0 +1,3 @@
+0.0-4.8 seconds: "The young couple are sitting on a couch."
+4.8-6.5 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+6.5-8.1 seconds: "The young couple sitting on a couch."

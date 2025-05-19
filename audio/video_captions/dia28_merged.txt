@@ -1,0 +1,3 @@
+0.0-5.5 seconds: "A man and woman sitting at a table."
+5.5-8.1 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+8.1-10.7 seconds: "The young couple sitting at a table eating food."

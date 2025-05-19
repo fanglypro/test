@@ -1,0 +1,2 @@
+0.0-5.3 seconds: "Two women sitting at a table in a restaurant."
+5.3-7.5 seconds: "Two women are talking at a table."

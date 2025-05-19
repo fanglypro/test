@@ -1,0 +1,6 @@
+0.0-5.0 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+5.0-10.9 seconds: "The big bang on the big bang show."
+10.9-19.3 seconds: "A man sitting at a table in a kitchen."
+19.3-25.2 seconds: "The big bang on the big bang show."
+25.2-32.6 seconds: "Two men sitting on a couch in a living room."
+32.6-34.1 seconds: "A woman is holding a doll house."

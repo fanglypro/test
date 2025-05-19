@@ -1,0 +1,8 @@
+0.0-3.6 seconds: "A man and woman are standing in a living room."
+3.6-6.0 seconds: "The young sheldon and his wife are talking."
+6.0-7.6 seconds: "The big bang on the big bang show."
+7.6-9.3 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+9.3-11.0 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+11.0-13.0 seconds: "A man and woman in a kitchen talking."
+13.0-14.0 seconds: "The young sheldon and friends."
+14.0-19.9 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."

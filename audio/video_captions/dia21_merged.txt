@@ -1,0 +1,2 @@
+0.0-0.7 seconds: "A woman in a black coat and red sweater."
+0.7-5.5 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."

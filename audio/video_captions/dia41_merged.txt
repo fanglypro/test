@@ -1,0 +1,3 @@
+0.0-6.9 seconds: "A man in a green shirt and tie holding a bottle."
+6.9-9.8 seconds: "A man kneeling down to a woman in a room."
+9.8-12.9 seconds: "A woman in a red shirt is standing in front of a green door."

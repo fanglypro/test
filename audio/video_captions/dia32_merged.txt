@@ -1,0 +1,8 @@
+0.0-2.4 seconds: "A woman in a hospital bed with a nurse."
+2.4-5.1 seconds: "A woman in a hospital bed with a man in the background."
+5.1-8.1 seconds: "A woman in a white coat standing next to a bed."
+8.1-10.4 seconds: "A man in a hospital bed next to a woman."
+10.4-13.3 seconds: "A woman in a hospital room with a man in a bed."
+13.3-15.5 seconds: "A man in a hospital bed next to a woman."
+15.5-19.3 seconds: "A woman in a white lab coat standing in a hospital room."
+19.3-23.4 seconds: "A woman in a hospital room with a man in a white coat."

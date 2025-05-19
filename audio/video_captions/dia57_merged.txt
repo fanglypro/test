@@ -1,0 +1,6 @@
+0.0-0.6 seconds: "The young couple are having breakfast together."
+0.6-5.2 seconds: "The big bang - the big bang - the big bang - the big bang - the big bang."
+5.2-9.2 seconds: "A man and woman sitting at a table in a kitchen."
+9.2-20.0 seconds: "A woman is preparing food in a kitchen."
+20.0-20.7 seconds: "A man and woman sitting at a table."
+20.7-27.6 seconds: "A woman sitting at a table with food."

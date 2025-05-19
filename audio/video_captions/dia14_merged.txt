@@ -1,0 +1,7 @@
+0.0-4.6 seconds: "Two men in suits talking in an office."
+4.6-8.3 seconds: "A man in a suit and tie is talking to another man."
+8.3-16.8 seconds: "Two men in suits are standing in a room."
+16.8-18.1 seconds: "A man in a suit and tie talking to another man."
+18.1-24.2 seconds: "Two men in suits talking in a room."
+24.2-29.7 seconds: "A man in a suit and tie talking to another man."
+29.7-30.5 seconds: "A man in a suit and tie."

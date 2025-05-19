@@ -1,0 +1,4 @@
+0.0-3.1 seconds: "A man and woman are standing in the dark."
+3.1-8.4 seconds: "A man and woman in a car with a fire in the background."
+8.4-9.8 seconds: "A man and woman in a car at night."
+9.8-13.5 seconds: "A man and woman are looking at each other people."

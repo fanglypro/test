@@ -1,0 +1,4 @@
+0.0-6.2 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+6.2-9.0 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+9.0-11.2 seconds: "The big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang."
+11.2-11.7 seconds: "A woman standing in front of a kitchen counter."

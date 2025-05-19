@@ -1,0 +1,3 @@
+0.0-1.0 seconds: "A woman in pajamas standing in a bedroom."
+1.0-2.7 seconds: "A man standing in front of a painting."
+2.7-6.8 seconds: "A woman in pajamas is sitting on a bed."

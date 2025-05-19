@@ -1,0 +1,2 @@
+0.0-0.8 seconds: "The young girl is talking to her friend."
+0.8-6.3 seconds: "Two women talking in front of a refrigerator."
