@@ -1,0 +1,65 @@
+[
+  {
+    "segment_index": 0,
+    "start_sec": 0.0,
+    "end_sec": 7.0,
+    "description": "The audio contains a female speaking in English saying 'Do you love chicken nuggets?' with a neutral mood.",
+    "subtitle": "Do you love chicken nuggets?"
+  },
+  {
+    "segment_index": 1,
+    "start_sec": 7.0,
+    "end_sec": 9.0,
+    "description": "The audio contains a sound effect with no specific source.",
+    "subtitle": "Flickin' it."
+  },
+  {
+    "segment_index": 2,
+    "start_sec": 9.0,
+    "end_sec": 16.0,
+    "description": "It contains sounds of things, mechanisms and respiratory sounds, breathing, along with a male voice speaking in Mandarin '然后你看到谢江龙没有'.",
+    "subtitle": "Where did you find them?"
+  },
+  {
+    "segment_index": 3,
+    "start_sec": 16.0,
+    "end_sec": 24.0,
+    "description": "The audio contains source-ambiguous sounds, generic impact sounds at intervals (0.00,0.53), (0.84,1.29), and (1.67,2.00); continuous noise, background noise throughout (0.00,3.00); respiratory sounds, breathing at intervals (2.40,2.73) and (3.00,3.30); and a clock ticking sound at (2.97,3.06).",
+    "subtitle": "Where did you find them?"
+  },
+  {
+    "segment_index": 4,
+    "start_sec": 24.0,
+    "end_sec": 28.0,
+    "description": "The audio contains background noise and source-ambiguous sounds, including generic impact sounds at various intervals, along with respiratory sounds, breathing, and laughter. A female voice is also heard speaking English, describing an event where everyone laughed.",
+    "subtitle": "All right, Nia, please put your townhouse out."
+  },
+  {
+    "segment_index": 5,
+    "start_sec": 28.0,
+    "end_sec": 31.0,
+    "description": "The audio contains speech with the transcription 'yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah",
+    "subtitle": "Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah."
+  },
+  {
+    "segment_index": 6,
+    "start_sec": 31.0,
+    "end_sec": 35.0,
+    "description": "It's a cough and throat clearing.",
+    "subtitle": "Townhouse out."
+  },
+  {
+    "segment_index": 7,
+    "start_sec": 35.0,
+    "end_sec": 37.0,
+    "description": "The audio contains a male singing in English with an angry mood, saying 'Open up the Google door'.",
+    "subtitle": "Open up the Google Docs."
+  },
+  {
+    "segment_index": 8,
+    "start_sec": 37.0,
+    "end_sec": 38.0,
+    "description": "The audio is a live recording of a TV show or event where a male host is speaking in Mandarin with an excited tone. There are sounds of people talking and laughing in the background, indicating that it's a lively and interactive environment.",
+    "subtitle": "Something for you to do."
+  }
+]

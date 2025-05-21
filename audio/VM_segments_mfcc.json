@@ -1,0 +1,114 @@
+[
+  {
+    "segment_index": 0,
+    "start_sec": 0.0,
+    "end_sec": 2.94,
+    "description": "The audio contains a woman speaking in Mandarin saying '哦那你自己早点儿休息喽'.",
+    "subtitle": ""
+  },
+  {
+    "segment_index": 1,
+    "start_sec": 2.94,
+    "end_sec": 5.38,
+    "description": "The audio contains a female singing in English with a sad mood. The content of the speech is 'Do you love me'.",
+    "subtitle": "Do you love?"
+  },
+  {
+    "segment_index": 2,
+    "start_sec": 5.38,
+    "end_sec": 6.4,
+    "description": "The audio contains a man speaking in Mandarin saying '是啊，嗯。' with a neutral mood.",
+    "subtitle": ""
+  },
+  {
+    "segment_index": 3,
+    "start_sec": 6.4,
+    "end_sec": 7.94,
+    "description": "The audio contains a female singing in English with a sad mood. The content of the speech is 'Kids are talking by the door'.",
+    "subtitle": ""
+  },
+  {
+    "segment_index": 4,
+    "start_sec": 7.94,
+    "end_sec": 10.37,
+    "description": "The audio contains a sound effect with no specific source and music throughout its duration.",
+    "subtitle": "Frickin' Nick."
+  },
+  {
+    "segment_index": 5,
+    "start_sec": 10.37,
+    "end_sec": 12.8,
+    "description": "It's a respiratory sound.",
+    "subtitle": ""
+  },
+  {
+    "segment_index": 6,
+    "start_sec": 12.8,
+    "end_sec": 13.82,
+    "description": "The audio contains a man speaking in Mandarin saying '那个不是我的菜'.",
+    "subtitle": "Thank you."
+  },
+  {
+    "segment_index": 7,
+    "start_sec": 13.82,
+    "end_sec": 17.54,
+    "description": "The audio contains a woman speaking in English saying 'What did you find?' with a sad mood.",
+    "subtitle": ""
+  },
+  {
+    "segment_index": 8,
+    "start_sec": 17.54,
+    "end_sec": 20.74,
+    "description": "The audio contains a female voice speaking in Mandarin with the phrase '大点声读'.",
+    "subtitle": "Thank you."
+  },
+  {
+    "segment_index": 9,
+    "start_sec": 20.74,
+    "end_sec": 24.58,
+    "description": "It is a sound of a dog sniffing and breathing.",
+    "subtitle": "Thank you."
+  },
+  {
+    "segment_index": 10,
+    "start_sec": 24.58,
+    "end_sec": 26.75,
+    "description": "The audio contains a female voice speaking in English saying 'Alright guys, lean into your cameras'.",
+    "subtitle": "All right, guys."
+  },
+  {
+    "segment_index": 11,
+    "start_sec": 26.75,
+    "end_sec": 27.78,
+    "description": "The audio contains a female voice speaking in Mandarin with an angry mood, saying '哦'.",
+    "subtitle": "Ciao."
+  },
+  {
+    "segment_index": 12,
+    "start_sec": 27.78,
+    "end_sec": 31.23,
+    "description": "The audio contains speech that is muffled and hard to understand, with repeated words 'yeah' and laughter suggesting amusement or sarcasm.",
+    "subtitle": "Yeah, yeah, yeah, yeah, yeah, yeah."
+  },
+  {
+    "segment_index": 13,
+    "start_sec": 31.23,
+    "end_sec": 33.28,
+    "description": "The audio contains dog barking and growling sounds.",
+    "subtitle": "Go ahead, get out of the hotel."
+  },
+  {
+    "segment_index": 14,
+    "start_sec": 33.28,
+    "end_sec": 34.69,
+    "description": "It is a sound effect from an internet game, where a character throws up.",
+    "subtitle": ""
+  },
+  {
+    "segment_index": 15,
+    "start_sec": 34.69,
+    "end_sec": 36.99,
+    "description": "The audio contains a male speaking in English saying 'Open up the Google door' with a sad mood.",
+    "subtitle": "Open up the Google Docs."
+  }
+]

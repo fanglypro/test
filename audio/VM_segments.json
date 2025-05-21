@@ -1,0 +1,65 @@
+[
+  {
+    "segment_index": 0,
+    "start_sec": 0.0,
+    "end_sec": 7.0,
+    "description": "The audio contains a female speaking in English, saying 'Do you love chicken nuggets?' with a neutral mood.",
+    "subtitle": "Do you love chicken nuggets?"
+  },
+  {
+    "segment_index": 1,
+    "start_sec": 7.0,
+    "end_sec": 9.0,
+    "description": "The audio contains a sound effect with no specific source.",
+    "subtitle": "Flickin' it."
+  },
+  {
+    "segment_index": 2,
+    "start_sec": 9.0,
+    "end_sec": 16.0,
+    "description": "It's a short audio with respiratory sounds, specifically breathing and snoring. Additionally, there is a sound of a clock ticking. The entire recording lasts for approximately 10 seconds.",
+    "subtitle": "Where did you find the shotgun tool?"
+  },
+  {
+    "segment_index": 3,
+    "start_sec": 16.0,
+    "end_sec": 21.0,
+    "description": "The audio contains background noise and source-ambiguous sounds related to surface contact at various intervals, along with a female voice speaking English, mentioning 'where did you find him then in heaven above'.",
+    "subtitle": "I mean, that weapon tool."
+  },
+  {
+    "segment_index": 4,
+    "start_sec": 21.0,
+    "end_sec": 27.0,
+    "description": "The audio contains a sniffle followed by a sneeze.",
+    "subtitle": "All right, guys, please put your townhooks out."
+  },
+  {
+    "segment_index": 5,
+    "start_sec": 27.0,
+    "end_sec": 31.0,
+    "description": "The audio contains sounds of things and mechanisms throughout its entire duration.",
+    "subtitle": "Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah."
+  },
+  {
+    "segment_index": 6,
+    "start_sec": 31.0,
+    "end_sec": 34.0,
+    "description": "The audio contains a cough and throat clearing.",
+    "subtitle": "Put your townhooks out."
+  },
+  {
+    "segment_index": 7,
+    "start_sec": 34.0,
+    "end_sec": 36.0,
+    "description": "The audio contains a cough and throat clearing.",
+    "subtitle": "Open up a Google Doc."
+  },
+  {
+    "segment_index": 8,
+    "start_sec": 36.0,
+    "end_sec": 38.0,
+    "description": "The audio contains music playing in the background throughout its duration. There is no speech or other sounds present.",
+    "subtitle": "There's something for you to do."
+  }
+]

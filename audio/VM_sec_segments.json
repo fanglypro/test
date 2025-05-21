@@ -1,0 +1,72 @@
+[
+  {
+    "segment_index": 0,
+    "start_sec": 0.0,
+    "end_sec": 7.0,
+    "description": "The audio contains two distinct events: music playing from the start to 8.52 seconds, and a female speaking in English between 0.34 seconds and 4.69 seconds.",
+    "subtitle": "Do you love chicken nuggets?"
+  },
+  {
+    "segment_index": 1,
+    "start_sec": 7.0,
+    "end_sec": 9.0,
+    "description": "The audio contains onomatopoeia with 'flicking' occurring at intervals (0.00,0.35), (0.49,0.82), (0.97,1.36), (1.50,1.82), (1.95,2.33), (2.47,2.83), (2.97,3.35), (3.50,3.83), (3.96,4.33), (4.47,4.84), (4.97,5.35), (5.50,5.83), (5.96,6.33), (6.47,6.84), (6.97,7.35), (7.50,7.83), (7.96,8.33), (8.47,8.84),",
+    "subtitle": "Flickin' it."
+  },
+  {
+    "segment_index": 2,
+    "start_sec": 9.0,
+    "end_sec": 16.0,
+    "description": "The audio contains respiratory sounds, specifically breathing and snoring, which occur at intervals (0.00-0.32), (0.79-1.48), (2.56-3.37), (3.78-4.61), (5.03-5.79), (6.23-6.88), (7.28-7.81), (8.16-8.73), and (9.13-9.71). There is also continuous noise described as background noise throughout the duration of the audio from (0.00-10.00). Additionally, there are source-ambiguous sounds and generic impact sounds detected at intervals (4.40-4.53) and (8.90-9.01).",
+    "subtitle": "Where did you find the shotgun tool?"
+  },
+  {
+    "segment_index": 3,
+    "start_sec": 16.0,
+    "end_sec": 21.0,
+    "description": "The audio contains two distinct events: a female speaking English with a sad mood, and an object-related sound effect. The female speaks from the start to the first timestamp (0.00), then there's a silence interval until the second event starts at 3.82 seconds, which consists of a generic impact sound.",
+    "subtitle": "And the weapon tool?"
+  },
+  {
+    "segment_index": 4,
+    "start_sec": 21.0,
+    "end_sec": 25.0,
+    "description": "The audio contains respiratory sounds, specifically breathing and sneezing, which occur at intervals (0.00-0.23), (2.74-3.58), (6.29-7.10), and (9.78-10.00). There's also continuous noise/ background noise throughout the duration of the recording from (0.00-10.00).",
+    "subtitle": "All right, guys."
+  },
+  {
+    "segment_index": 5,
+    "start_sec": 25.0,
+    "end_sec": 28.0,
+    "description": "The audio contains two distinct events: laughter and a sigh. The laughter event starts at 0.84 seconds and lasts until 2.67 seconds, making it approximately 1.83 seconds long. The sigh event starts at 5.97 seconds and ends at 7.04 seconds, lasting for about 1.07 seconds.",
+    "subtitle": "Please put your townhomes out."
+  },
+  {
+    "segment_index": 6,
+    "start_sec": 28.0,
+    "end_sec": 31.0,
+    "description": "The audio contains speech at intervals (0.00,0.56), (0.78,2.93), (3.14,3.37), (3.60,4.08), (4.31,4.67), (4.84,5.07), (5.20,5.46), (5.60,5.85), (5.98,6.54), (6.70,7.28), (7.50,7.77), (7.98,8.53), (8.67,9.22), (9.36,9.93). There is also continuous background noise throughout the duration of the audio from (0.00,10.00).",
+    "subtitle": "Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah."
+  },
+  {
+    "segment_index": 7,
+    "start_sec": 31.0,
+    "end_sec": 35.0,
+    "description": "The audio contains two distinct events: a cough and throat clearing. The cough occurs from 0.32 to 0.85 seconds and is characterized by a deep, forceful expulsion of air from lungs through the nose and mouth. The throat clearing follows immediately after, from 0.87 to 1.34 seconds, which involves clearing the airway by coughing or sneezing.",
+    "subtitle": "Townhomes out."
+  },
+  {
+    "segment_index": 8,
+    "start_sec": 35.0,
+    "end_sec": 37.0,
+    "description": "The audio contains two distinct events: music playing from the start to 3 minutes and 58 seconds, and someone using a hairdryer between 3 minutes and 57 seconds to 10 minutes exactly.",
+    "subtitle": "Open up the Google Docs."
+  },
+  {
+    "segment_index": 9,
+    "start_sec": 37.0,
+    "end_sec": 38.0,
+    "description": "The audio contains a single event, which is music playing from the beginning to the end (0.00 to 10.00 seconds).",
+    "subtitle": "Something for you to read."
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "segment_index": 0,
+    "start_sec": 0.0,
+    "end_sec": 7.0,
+    "description": "The audio contains two distinct events: music playing from the start to 8.52 seconds, and a female speaking in English from 0.47 seconds to 3.96 seconds.",
+    "subtitle": "Do you love chicken nuggets?"
+  },
+  {
+    "segment_index": 1,
+    "start_sec": 7.0,
+    "end_sec": 9.0,
+    "description": "The audio contains a single event, which is a 'music' segment lasting from the start to the 10-second mark.",
+    "subtitle": "Flickin' it."
+  },
+  {
+    "segment_index": 2,
+    "start_sec": 9.0,
+    "end_sec": 16.0,
+    "description": "The audio contains respiratory sounds, specifically breathing and snoring, occurring at intervals (0.00-1.23), (3.74-5.08), (6.99-8.17), and (9.04-10.00). There's also laughter, which can be heard from (1.43 to 2.28) and again from (5.21 to 5.91). Additionally, there is muffled speech that occurs during (1.98 to 2.35) and (5.89 to 6.28).",
+    "subtitle": "Where did you find the shotgun tool?"
+  },
+  {
+    "segment_index": 3,
+    "start_sec": 16.0,
+    "end_sec": 21.0,
+    "description": "The audio contains two distinct events: a female speaking English with a sad mood, and the sound of a clock ticking. The female's speech occurs from the start to the first timestamp (0.00), where she says 'Where did you find him then?' in a sad mood. There is no overlap with the clock ticking sound which starts at 8.92 seconds and ends at 9.01 seconds.",
+    "subtitle": "And the weapon tool?"
+  },
+  {
+    "segment_index": 4,
+    "start_sec": 21.0,
+    "end_sec": 26.0,
+    "description": "The audio contains two distinct events: a sneeze and someone sniffing. The sneeze occurs from 2.98 to 4.05 seconds and is characterized by a high pitch and loud intensity. Sniffing, on the other hand, happens twice: once from 6.37 to 6.74 seconds and again from 7.29 to 7.62 seconds.",
+    "subtitle": "All right, guys."
+  },
+  {
+    "segment_index": 5,
+    "start_sec": 26.0,
+    "end_sec": 28.0,
+    "description": "The audio contains two types of events: a 'human group action' and a 'respiratory sounds, breathing'. The 'human group action' event involves multiple people working together, which is indicated by the phrase 'a crowd works on something', suggesting that there could be a construction site or some other collaborative activity where individuals are contributing to a common goal. The 'respiratory sounds, breathing' event refers to the natural process of breathing, which occurs twice within the time frame from 2.34 to 2.79 seconds and then again from 8.06 to 8.51 seconds.",
+    "subtitle": "Please put your townhouse out."
+  },
+  {
+    "segment_index": 6,
+    "start_sec": 28.0,
+    "end_sec": 31.0,
+    "description": "The audio contains speech at intervals (0.00,0.38), (0.56,2.74), (3.03,3.39), (3.61,4.08), (4.33,4.72), (4.90,5.35), (5.50,6.02), (6.25,6.74), (6.92,7.43), (7.57,8.12), (8.25,8.79), (8.91,9.47), (9.57,10.00). There is also continuous background noise throughout the duration of the audio from (0.00,10.00).",
+    "subtitle": "Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah."
+  },
+  {
+    "segment_index": 7,
+    "start_sec": 31.0,
+    "end_sec": 33.0,
+    "description": "The audio contains respiratory sounds, specifically breathing, and also includes sounds of things or mechanisms throughout its duration.",
+    "subtitle": "Townhouse out."
+  },
+  {
+    "segment_index": 8,
+    "start_sec": 33.0,
+    "end_sec": 36.0,
+    "description": "The audio contains respiratory sounds, specifically breathing and coughing, which occur at intervals (0.00-0.53), (2.98-3.47), (3.67-4.08), (4.49-4.92), (5.21-5.75), (6.05-6.48), (6.66-7.08), (7.31-7.70), (7.86-8.23), (8.37-8.83), and (8.96-9.42). Additionally, there is continuous noise described as background noise throughout the duration of the audio from (0.00-10.00).",
+    "subtitle": "Open up the Google Docs."
+  },
+  {
+    "segment_index": 9,
+    "start_sec": 36.0,
+    "end_sec": 38.0,
+    "description": "The audio contains a single event, which is music playing from the beginning to the end (0.00 to 10.00 seconds).",
+    "subtitle": "Something for you to do."
+  }
+]

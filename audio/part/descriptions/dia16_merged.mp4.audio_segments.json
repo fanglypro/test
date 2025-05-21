@@ -1,0 +1,37 @@
+[
+  {
+    "segment_index": 0,
+    "start_sec": 0.0,
+    "end_sec": 7.26,
+    "description": "The audio contains two distinct events: 'a social gathering' and 'a conversation about past times'.",
+    "subtitle": "Well, I went over to Kyle's last night to pick up a few things, and we got to reminiscing."
+  },
+  {
+    "segment_index": 1,
+    "start_sec": 7.44,
+    "end_sec": 8.1,
+    "description": "The audio contains an event of a man speaking, possibly to apologize.",
+    "subtitle": "I'm sorry."
+  },
+  {
+    "segment_index": 2,
+    "start_sec": 10.44,
+    "end_sec": 12.64,
+    "description": "The audio contains two distinct events: the first is a man speaking, and the second is a woman speaking.",
+    "subtitle": "Thieves, you were right about her."
+  },
+  {
+    "segment_index": 3,
+    "start_sec": 13.56,
+    "end_sec": 21.42,
+    "description": "The first event is a conversation that occurs throughout most of the night. The second event involves recognizing that there are still feelings remaining between two individuals.",
+    "subtitle": "We talked through most of the night and we realized that the reason we're so angry with each other is because there are still feelings there."
+  },
+  {
+    "segment_index": 4,
+    "start_sec": 21.42,
+    "end_sec": 22.12,
+    "description": "The audio contains two distinct events: an action and a reaction. The first event involves someone performing a physical maneuver, likely a trick or stunt on a skateboard, which is then followed by a reaction from another individual expressing surprise or astonishment.",
+    "subtitle": ""
+  }
+]

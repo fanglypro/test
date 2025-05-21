@@ -1,17 +1,11 @@
 import os
 from pathlib import Path
 import whisper
-import subprocess
 
 # 路径配置
-VIDEO_DIR = "/root/autodl-tmp/0new/omni-time/audio/part/"
+AUDIO_DIR = "/root/autodl-tmp/0new/omni-time/audio/part/"
 OUTPUT_DIR = "/root/autodl-tmp/0new/omni-time/audio/"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-def extract_audio_from_video(video_path, audio_path):
-    subprocess.run([
-        "ffmpeg", "-i", video_path, "-q:a", "0", "-map", "a", audio_path, "-y"
-    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
 
 def transcribe_audio(audio_path, model):
     result = model.transcribe(audio_path, fp16=False)
@@ -27,15 +21,14 @@ def transcribe_audio(audio_path, model):
 def main():
     print("加载 Whisper 模型...")
     model = whisper.load_model("base")
-    for video_file in Path(VIDEO_DIR).glob("*.mp4"):
-        print(f"处理视频: {video_file.name}")
-        audio_file = video_file.with_suffix(".mp3")
-        extract_audio_from_video(str(video_file), str(audio_file))
+    for audio_file in Path(AUDIO_DIR).glob("*"):
+        if audio_file.suffix.lower() not in [".mp3", ".wav", ".flac", ".m4a", ".aac", ".ogg"]:
+            continue
+        print(f"处理音频: {audio_file.name}")
         transcription = transcribe_audio(str(audio_file), model)
-        output_txt = os.path.join(OUTPUT_DIR, video_file.stem + ".txt")
+        output_txt = os.path.join(OUTPUT_DIR, audio_file.stem + ".txt")
         with open(output_txt, "w", encoding="utf-8") as f:
             f.write(transcription)
-        os.remove(audio_file)
         print(f"已保存: {output_txt}")
     print("全部完成！")
 

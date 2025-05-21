@@ -1,0 +1,38 @@
+[
+  {
+    "scene_index": 0,
+    "start_sec": 0.0,
+    "end_sec": 7.23,
+    "description": "The video clip shows a group of people sitting on a couch in what appears to be a café or coffee shop. The setting is casual and social, with other patrons visible in the background. In the foreground, a man wearing a black leather jacket is engaged in conversation with a woman dressed in a purple top and a maroon jacket. The woman gestures animatedly as she speaks, while the man listens attentively, occasionally responding. Another person, partially visible on the left side of the frame, holds a mug and seems to be part of the conversation. The overall atmosphere is relaxed and friendly."
+  },
+  {
+    "scene_index": 1,
+    "start_sec": 7.23,
+    "end_sec": 9.95,
+    "description": "The video clip depicts a scene set in a cozy café with a warm and inviting atmosphere. In the foreground, a man in a suit is seated at a small round table with a green mug and some papers, while a woman sits on an orange couch holding a pink object. The man gestures with his hand as he speaks to the woman. In the background, several people are engaged in various activities: one person is standing at the counter interacting with a barista, another is sitting at the counter, and others are seated or standing around the café. The setting includes shelves stocked with items like bottles and snacks, contributing to the casual and friendly ambiance of the café."
+  },
+  {
+    "scene_index": 2,
+    "start_sec": 9.95,
+    "end_sec": 13.54,
+    "description": "The video clip takes place in a bustling café with a cozy and lively atmosphere. A man in a suit and tie is seen walking through the café, passing by various patrons seated at tables and on couches. He approaches a woman sitting on an orange couch, who appears to be engaged in conversation or reacting to something. The background features other customers interacting, a bar area with neon signs, and decorative elements that give the café a warm and inviting ambiance. The man then sits down next to the woman, adjusting his jacket as he settles into the seat."
+  },
+  {
+    "scene_index": 3,
+    "start_sec": 13.54,
+    "end_sec": 15.25,
+    "description": "The image shows a man dressed in a brown suit with a light blue shirt and a striped tie. He appears to be in a casual setting, possibly a café or diner, as indicated by the brick wall, chalkboard menu, and various items like a green mug and candy dispensers in the background. The man has short dark hair and is looking slightly to his right with a neutral or contemplative expression."
+  },
+  {
+    "scene_index": 4,
+    "start_sec": 15.25,
+    "end_sec": 17.88,
+    "description": "A woman with blonde hair tied back is seated on an orange couch in a cozy, café-like setting. She is wearing a floral-patterned top with red flowers and a decorative necklace. The background features shelves stocked with various items, including coffee bags and kitchenware, contributing to a warm and inviting atmosphere."
+  },
+  {
+    "scene_index": 5,
+    "start_sec": 17.88,
+    "end_sec": 22.06,
+    "description": "The video clip shows two individuals seated at a table in what appears to be a café or diner setting. The person on the left is wearing a black leather jacket and is gesturing with their hands while speaking. The person on the right, dressed in a maroon jacket over a purple top, is listening attentively and also using hand gestures. In the background, other patrons are visible, contributing to a casual and social atmosphere. The overall scene suggests a conversation taking place in a relaxed environment."
+  }
+]
